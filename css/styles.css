@@ -76,6 +76,7 @@ font-weight: 400;
 #about{
   padding-top: 133px;
   background-color: #0081ff;
+  padding-bottom: 83px;
 }
 
 #about h2 {
@@ -100,4 +101,20 @@ font-weight: 400;
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
+}
+
+
+/* Section icone */
+
+#icon{
+  padding-top: 80px;
+  background-color: #0069ff;
+  min-height: 315px;
+  padding-bottom: 83px;
+}
+
+.para-icon{
+    font-family: 'Cambay', sans-serif;
+    color: white;
+
 }
