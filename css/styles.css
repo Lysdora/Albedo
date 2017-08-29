@@ -118,3 +118,24 @@ font-weight: 400;
     color: white;
 
 }
+
+/* section social */
+
+#social {
+  background-color: #0081ff;
+  padding-top: 80px;
+  padding-bottom: 134px;
+}
+
+.para-social{
+  color: white;
+  font-family: 'Cambay', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.fa {
+  color: white;
+  padding-right: 10px;
+}
