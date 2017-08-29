@@ -139,3 +139,37 @@ font-weight: 400;
   color: white;
   padding-right: 10px;
 }
+
+/* Section Portfolio */
+
+#portfolio {
+  padding-top: 98px;
+  padding-bottom: 80px;
+}
+
+.head2-port {
+  color: #8799a3;
+  font-family: 'Leckerli One', cursive;
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.head3-port {
+  font-family: 'Montserrat', sans-serif;
+  color: #252525;
+  font-size: 42px;
+  font-weight: 900;
+  line-height: 52px;
+
+}
+
+.btn-port {
+  width: 260px;
+  height: 60px;
+  box-shadow: 0 10px 30px rgba(28, 187, 180, 0.5);
+  background-color: #1cbbb4;
+  border: #1cbbb4 ;
+  border-radius: 30px;
+    font-family: 'Montserrat', sans-serif;
+
+}
