@@ -6,6 +6,9 @@ I'm not original designer, you can watch this lesson in Youtube.
 
 https://www.youtube.com/watch?v=EreEn9SHowU
 
+#I am training on Bootstrap in order to master the framework
+This project will be corrected soon and updated
+
 Regards,
 Lysdora Guicherd
 
