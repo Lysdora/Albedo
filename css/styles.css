@@ -173,3 +173,48 @@ font-weight: 400;
     font-family: 'Montserrat', sans-serif;
 
 }
+
+
+/* Section Clienst */
+
+#client {
+  background: url('../img/bg-client.png');
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  min-height: 780px;
+  background-color: black;
+  padding-top: 80px;;
+}
+
+.head3-client{
+    font-family: 'Leckerli One', cursive;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.para-client {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 42px;
+  font-weight: 900px;
+  line-height: 52px;
+}
+.yellow {
+   color: #ffff00;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 18px;
+     line-height: 28px;
+     font-weight: 700;
+}
+
+.job {
+    font-family: 'Cambay', sans-serif;
+    color: #ffffff;
+    opacity: 0.3;
+    font-weight: 400;
+}
+
+.client-img {
+  padding-top: 120px;
+}
